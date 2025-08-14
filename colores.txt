@@ -1,0 +1,1 @@
+colores: Trquesa #ooFCA8, Negro #000000, Azul osscuro #o6o732
